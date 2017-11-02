@@ -5,6 +5,8 @@ language" that the Fabric Virtual Machine executes in what it calls "Fibers".
 
 ## Quick Start
 **TODO:**
+- [ ] write introduction
 - [ ] formalize specification
+- [ ] publish AST
 
 [simplicity-paper]: https://blockstream.com/simplicity.pdf
